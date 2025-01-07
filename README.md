@@ -1,5 +1,4 @@
 
-
 ## This is Ethiopian tourisms attraction and travel website project
 
 ## Features
@@ -16,6 +15,7 @@
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **React Router**: For navigation between different pages.
 - **JavaScript ES6+**: Modern JavaScript features for clean code.
+- **Node.js **: for the backend 
 
 
 
