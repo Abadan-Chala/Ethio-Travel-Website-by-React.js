@@ -15,7 +15,10 @@
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **React Router**: For navigation between different pages.
 - **JavaScript ES6+**: Modern JavaScript features for clean code.
-- **Node.js **: for the backend 
+- **Node.js **: for the backend
+
+## Ethiopia is the Home of diverse land
+- come and visit Us 
 
 
 
