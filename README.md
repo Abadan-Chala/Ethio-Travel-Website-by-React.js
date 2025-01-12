@@ -17,9 +17,6 @@
 - **JavaScript ES6+**: Modern JavaScript features for clean code.
 - **Node.js **: for the backend
 
-## Ethiopia is the Home of diverse land
-- come and visit Us 
-
 
 
 
